@@ -22,7 +22,14 @@ CCTV5+,http://gouwu.pthv.gitv.tv:91/live/CCTV5+hd-8M/live.m3u8
 CCTV16,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-16_4000.m3u8
 CCTV16,http://gouwu.pthv.gitv.tv:91/live/CCTV16hd-8M/live.m3u8
 CCTV16,http://58.248.112.205:8006/GD_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBVSIaGkZ%2BPhCYgvTlbbof9ehJWpxNEs6VzmrJ5uWaaFf
+新 视 觉,http://58.216.99.148/live2.rxip.sc96655.com/live/ycxsjH265_4000.m3u8
 广东体育,http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
+纬来体育http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130$611 
+睛彩竞技,http://tnv.asuscomm.com:8012/udp/239.3.1.125:8001$bjlt 
+睛彩竞技,http://dsm.ats.ink:8012/udp/239.3.1.125:8001$bjlt 
+睛彩篮球,http://tnv.asuscomm.com:8012/udp/239.3.1.126:8001$bjlt 
+睛彩篮球,http://dsm.ats.ink:8012/udp/239.3.1.126:8001$bjlt 
+
 
 
 地方,#genre#
@@ -32,6 +39,15 @@ CCTV16,http://58.248.112.205:8006/GD_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=56fbZo0WT6r
 东方影视,http://223.106.228.16/mgsp-tx.live.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 江苏城市,http://z.b.bkpcp.top/11.php?id=jscs
 经典电影,http://223.106.228.16/mgsp-tx.live.miguvideo.com/wd_r2/virtuallive/5100180869/150/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+粤语电影,http://159.75.85.63:35455/douyu/5033502 
+粤语电影,http://diyp2.112114.xyz/douyu/5033502 
+粤语电影2,http://159.75.85.63:35455/douyu/6566671 
+粤语电影2,http://diyp2.112114.xyz/douyu/6566671 
+粤语电影3,http://diyp2.112114.xyz/douyu/1226741 
+粤语电影3,http://159.75.85.63:35455/douyu/1226741 
+
+ 
+
 
 
 卫视,#genre#
