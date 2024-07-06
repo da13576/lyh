@@ -14,9 +14,7 @@ now新聞,P2p://generationnexxxt.com:19806/5c263253cf5241b1a155f0b1b85edea1
 
 体育,#genre#
 CCTV5,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8
-CCTV5,http://223.106.228.16/mgsp-tx.live.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 CCTV5,http://gouwu.pthv.gitv.tv:91/live/CCTV5hd-8M/live.m3u8
-CCTV5,http://bb66b6.netsite.cc/proxy/1233541493/1233541493.m3u8
 CCTV5+,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8
 CCTV5+,http://gouwu.pthv.gitv.tv:91/live/CCTV5+hd-8M/live.m3u8
 CCTV16,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-16_4000.m3u8
@@ -30,15 +28,15 @@ CCTV16,http://58.248.112.205:8006/GD_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=56fbZo0WT6r
 睛彩篮球,http://tnv.asuscomm.com:8012/udp/239.3.1.126:8001$bjlt 
 睛彩篮球,http://dsm.ats.ink:8012/udp/239.3.1.126:8001$bjlt 
 
+先锋乒羽http://58.216.99.148:80/live2.rxip.sc96655.com/live/xfpy_4000.m3u8
+
 
 
 地方,#genre#
 淘 电 影,http://dsm.ats.ink:8012/udp/239.3.1.250:8001$bjlt 
 淘 电 影,http://tnv.asuscomm.com:8012/udp/239.3.1.250:8001$bjlt 
-上海新闻,http://223.106.228.16/mgsp-tx.live.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
-东方影视,http://223.106.228.16/mgsp-tx.live.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
-江苏城市http://z.b.bkpcp.top/11.php?id=jscs
-经典电影,http://223.106.228.16/mgsp-tx.live.miguvideo.com/wd_r2/virtuallive/5100180869/150/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+上海新闻
+东方影视
 粤语电影,http://159.75.85.63:35455/douyu/5033502 
 粤语电影,http://diyp2.112114.xyz/douyu/5033502 
 粤语电影2,http://159.75.85.63:35455/douyu/6566671 
@@ -49,33 +47,41 @@ CCTV16,http://58.248.112.205:8006/GD_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=56fbZo0WT6r
  
 
 卫视,#genre#
+湖南卫视,http://58.248.112.205:8006/GD_CUCC/G_HUNAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHRo9Db0sT8QFSkrF29I7qMlTsBzPp9x%2Bi0NFonroQm9c
 湖南卫视,http://gouwu.pthv.gitv.tv:91/live/HuNWShd-8M/live.m3u8 
-江苏卫视,http://223.106.228.16/mgsp-tx.live.miguvideo.com/wd_r2/cctv/jiangsuhd/2500/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 江苏卫视,http://gouwu.pthv.gitv.tv:91/live/JSWShd-8M/live.m3u8 
-东方卫视,http://223.106.228.16/mgsp-tx.live.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+东方卫视,
 东方卫视,http://gouwu.pthv.gitv.tv:91/live/DFWShd-8M/live.m3u8 
+浙江卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/zjwsH265_4000.m3u8
+浙江卫视,http://58.248.112.205:8006/GD_CUCC/G_ZHEJIANG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHdr3tmmw%2BL49D6e6Yw0TfYx4NHMHVaPey3ntJx7niV8g
 浙江卫视,http://gouwu.pthv.gitv.tv:91/live/ZJWShd-8M/live.m3u8 
+北京卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/bjwsH265_4000.m3u8
+北京卫视,http://58.248.112.205:8006/GD_CUCC/G_BEIJING-CQ.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNX6pFJlsKFX2elUkY7G9WuZ%2FLZ09yMkeIOMqbveJrzlJ
 北京卫视,http://gouwu.pthv.gitv.tv:91/live/BJWShd-8M/live.m3u8
 广东卫视,http://58.216.99.148/live2.rxip.sc96655.com/live/gdwsH265_4000.m3u8
 广东卫视,http://gouwu.pthv.gitv.tv:91/live/GDWShd-8M/live.m3u8 
+深圳卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/szwsH265_4000.m3u8
+深圳卫视,http://58.248.112.205:8006/GD_CUCC/G_SHENZHEN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHdBPUZJQRNJB5bOiIhhUc3d4NHMHVaPey3ntJx7niV8g
 深圳卫视,http://gouwu.pthv.gitv.tv:91/live/SZWShd-8M/live.m3u8 
 
 
 央视,#genre#
 CCTV1,http://60.255.240.241/live/CCTV-1H265.m3u8
-CCTV1,http://223.106.228.16/mgsp-tx.live.miguvideo.com/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
 CCTV1,http://gouwu.pthv.gitv.tv:91/live/CCTV1hd-8M/live.m3u8
-CCTV2,http://223.106.228.16/mgsp-tx.live.miguvideo.com/wd_r2/cctv/cctv2hd/1500/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&enc
+CCTV1,http://58.248.112.205:8006/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKkjJ6yQpJZ9CGFM9sHS3VdiLvaf2eXKnEWpoNjJ53rwe
+CCTV2,
 CCTV2,http://gouwu.pthv.gitv.tv:91/live/CCTV2hd-8M/live.m3u8
+CCTV3,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8
 CCTV3,http://gouwu.pthv.gitv.tv:91/live/CCTV3hd-8M/live.m3u8
 CCTV4,http://60.255.240.241/live/CCTV-4H265.m3u8
 CCTV4,http://223.106.228.16/mgsp-tx.live.miguvideo.com/wd_r2/cctv/cctv4hd/1500/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 CCTV4,http://gouwu.pthv.gitv.tv:91/live/CCTV4hd-8M/live.m3u8
-CCTV6,http://223.106.228.16/mgsp-tx.live.miguvideo.com/wd_r2/ocn/cctv6hd/3000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+CCTV6,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8
 CCTV6,http://gouwu.pthv.gitv.tv:91/live/CCTV6hd-8M/live.m3u8
 CCTV6,http://182.139.251.43:5033/syhjcms_hls/98000000000000000001703664302519/index.m3u8?cl_session=667eb45606db1890b159cd43cb6b0580&playtype=1&AuthInfo=drZF7j2c72n4VJbZ1b2a2X18biqFJjJAAApxqn2ycQWWYbvCc62Pv3c2ZclxJOO7i3OpFRwXBmazm%2FXiWOoijQ%3D%3D&usercode=Scdx@CL_is
 CCTV7,http://gouwu.pthv.gitv.tv:91/live/CCTV7hd-8M/live.m3u8
-CCTV8,http://223.106.228.16/mgsp-tx.live.miguvideo.com/wd_r2/2018/ocn/cctv8hd/2000/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+CCTV8,http://58.248.112.205:8006/GD_CUCC/G_CCTV-8-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYZxg8b1eRG7LTk8x07GrI44Cftlba08rT1Q6udDNxyt
 CCTV8,http://gouwu.pthv.gitv.tv:91/live/CCTV8hd-8M/live.m3u8
 CCTV9,http://223.106.228.16/mgsp-tx.live.miguvideo.com/migu/kailu/20200324/cctv9hd/57/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 CCTV9,http://gouwu.pthv.gitv.tv:91/live/CCTV9hd-8M/live.m3u8
@@ -87,6 +93,10 @@ CCTV12,http://gouwu.pthv.gitv.tv:91/live/CCTV12hd-8M/live.m3u8
 CCTV13,http://gouwu.pthv.gitv.tv:91/live/CCTV13hd-8M/live.m3u8
 CCTV14,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8
 CCTV14,http://gouwu.pthv.gitv.tv:91/live/CCTV14hd-8M/live.m3u8
+
+CCTV14,http://58.248.112.205:8006/GD_CUCC/G_CCTV-14-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBc44kHEGXWPeTdip0KbSgbcUS47HSY0WGvdsrttpfOO6
+CCTV15,http://58.248.112.205:8006/GD_CUCC/G_CCTV-15-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYyPYgkCWBSIT3aCcBdsAjsuu6MyRrRs1cAsik3e8WER
 CCTV15,http://gouwu.pthv.gitv.tv:91/live/CCTV15hd-8M/live.m3u8
+CCTV17,http://58.248.112.205:8006/GD_CUCC/G_CCTV-17-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBflsNSUvoRXJq9Dxabd45ul6sEw7jHEWykLtxlHY3hJu
 CCTV17,http://gouwu.pthv.gitv.tv:91/live/CCTV17hd-8M/live.m3u8
 CCTV4K,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
