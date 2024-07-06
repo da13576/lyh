@@ -22,13 +22,14 @@ CCTV5+,http://gouwu.pthv.gitv.tv:91/live/CCTV5+hd-8M/live.m3u8
 CCTV16,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-16_4000.m3u8
 CCTV16,http://gouwu.pthv.gitv.tv:91/live/CCTV16hd-8M/live.m3u8
 CCTV16,http://58.248.112.205:8006/GD_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBVSIaGkZ%2BPhCYgvTlbbof9ehJWpxNEs6VzmrJ5uWaaFf
+广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 广东体育,http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
-纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130$611 
+纬来体育http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130$611 
 睛彩竞技,http://tnv.asuscomm.com:8012/udp/239.3.1.125:8001$bjlt 
 睛彩竞技,http://dsm.ats.ink:8012/udp/239.3.1.125:8001$bjlt 
 睛彩篮球,http://tnv.asuscomm.com:8012/udp/239.3.1.126:8001$bjlt 
 睛彩篮球,http://dsm.ats.ink:8012/udp/239.3.1.126:8001$bjlt 
-先锋乒羽http://58.216.99.148:80/live2.rxip.sc96655.com/live/xfpy_4000.m3u8
+先锋乒羽,http://58.216.99.148:80/live2.rxip.sc96655.com/live/xfpy_4000.m3u8
 
 
 
@@ -44,10 +45,10 @@ CCTV16,http://58.248.112.205:8006/GD_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=56fbZo0WT6r
 粤语电影2,http://diyp2.112114.xyz/douyu/6566671 
 粤语电影3,http://diyp2.112114.xyz/douyu/1226741 
 粤语电影3,http://159.75.85.63:35455/douyu/1226741 
-粤语集轮播台http://43.138.170.29:35455/douyu/10338873 
-粤语港剧轮播http://43.138.170.29:35455/douyu/6478650 
-粤语轮播港剧http://43.138.170.29:35455/douyu/9019945 
-粤语轮播剧集http://43.138.170.29:35455/douyu/10567318 
+粤语轮播http://43.138.170.29:35455/douyu/10338873 
+粤语港剧http://43.138.170.29:35455/douyu/6478650 
+粤语港剧http://43.138.170.29:35455/douyu/9019945 
+粤语剧集http://43.138.170.29:35455/douyu/10567318 
 美亚电影http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
  
 
@@ -55,6 +56,7 @@ CCTV16,http://58.248.112.205:8006/GD_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=56fbZo0WT6r
 湖南卫视,http://58.248.112.205:8006/GD_CUCC/G_HUNAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHRo9Db0sT8QFSkrF29I7qMlTsBzPp9x%2Bi0NFonroQm9c
 湖南卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/hnwsH265_4000.m3u8
 湖南卫视,http://gouwu.pthv.gitv.tv:91/live/HuNWShd-8M/live.m3u8 
+江苏卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/jswsH265_4000.m3u8
 江苏卫视,http://gouwu.pthv.gitv.tv:91/live/JSWShd-8M/live.m3u8 
 东方卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/dfwsH265_4000.m3u8
 东方卫视,http://gouwu.pthv.gitv.tv:91/live/DFWShd-8M/live.m3u8 
