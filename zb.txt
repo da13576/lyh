@@ -56,6 +56,7 @@ CCTV16,http://58.248.112.205:8006/GD_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=56fbZo0WT6r
 湖南卫视,http://58.248.112.205:8006/GD_CUCC/G_HUNAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHRo9Db0sT8QFSkrF29I7qMlTsBzPp9x%2Bi0NFonroQm9c
 湖南卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/hnwsH265_4000.m3u8
 湖南卫视,http://gouwu.pthv.gitv.tv:91/live/HuNWShd-8M/live.m3u8 
+江苏卫视,http://58.248.112.205:8006/GD_CUCC/G_JIANGSU-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKu%2BuH8HDFS0PtokY11nWnf4qV6vyu%2BOKjQBSSKsQUVYE
 江苏卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/jswsH265_4000.m3u8
 江苏卫视,http://gouwu.pthv.gitv.tv:91/live/JSWShd-8M/live.m3u8 
 东方卫视,http://58.216.99.148:80/live2.rxip.sc96655.com/live/dfwsH265_4000.m3u8
