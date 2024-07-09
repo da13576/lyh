@@ -26,32 +26,34 @@ CCTV16,http://gouwu.pthv.gitv.tv:91/live/CCTV16hd-8M/live.m3u8
 CCTV16,http://58.248.112.205:8006/GD_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBVSIaGkZ%2BPhCYgvTlbbof9ehJWpxNEs6VzmrJ5uWaaFf
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 广东体育,http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
-纬来体育http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130$611 
 睛彩竞技,http://tnv.asuscomm.com:8012/udp/239.3.1.125:8001$bjlt 
 睛彩竞技,http://dsm.ats.ink:8012/udp/239.3.1.125:8001$bjlt 
 睛彩篮球,http://tnv.asuscomm.com:8012/udp/239.3.1.126:8001$bjlt 
 睛彩篮球,http://dsm.ats.ink:8012/udp/239.3.1.126:8001$bjlt 
-先锋乒羽,http://58.216.99.148:80/live2.rxip.sc96655.com/live/xfpy_4000.m3u8
 先锋乒羽,http://171.105.187.50/live2.rxip.sc96655.com/live/xfpy_4000.m3u8
-
+先锋乒羽,http://58.216.99.148:80/live2.rxip.sc96655.com/live/xfpy_4000.m3u8
+纬来体育http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130$611 
 
 地方,#genre#
 淘 电 影,http://dsm.ats.ink:8012/udp/239.3.1.250:8001$bjlt 
 淘 电 影,http://tnv.asuscomm.com:8012/udp/239.3.1.250:8001$bjlt 
-新 视 觉,http://171.105.187.50/live2.rxip.sc96655.com/live/ycxsjH265_4000.m3u8
-周 星 驰,http://open-tct.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_2000.flv?wsAuth=d77f94aacb13db42c68c0f135eedec48&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0185175015db304d46caaef0c1888ae20&logo=0&expire=0&did=10000000000000000000000000001501&origin=tct&vhos
+周 星 驰http://open-tct.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_2000.flv?wsAuth=d77f94aacb13db42c68c0f135eedec48&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0185175015db304d46caaef0c1888ae20&logo=0&expire=0&did=10000000000000000000000000001501&origin=tct&vhos
 华语电影,http://open-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=e75b875358c4ad5e9dd718192bd3eee3&token=cpn-androidmpro-0-85894-a3575d938a4aa3093906420ddd05c4e6c6cdd142fbcabb69&logo=0&expire=0&did=10000000000000000000000000001501&origin=tct&vhost=p
+粤语剧集,http://diyp2.112114.xyz/douyu/10338873 
+粤语剧集,http://159.75.85.63:35455/douyu/10338873 
+粤语港剧,http://diyp2.112114.xyz/douyu/9019945 
+粤语港剧,http://159.75.85.63:35455/douyu/9019945 
 粤语电影,http://159.75.85.63:35455/douyu/5033502 
 粤语电影,http://diyp2.112114.xyz/douyu/5033502 
 粤语电影2,http://159.75.85.63:35455/douyu/6566671 
 粤语电影2,http://diyp2.112114.xyz/douyu/6566671 
 粤语电影3,http://diyp2.112114.xyz/douyu/1226741 
 粤语电影3,http://159.75.85.63:35455/douyu/1226741 
-粤语轮播http://43.138.170.29:35455/douyu/10338873 
 粤语港剧http://43.138.170.29:35455/douyu/6478650 
-粤语港剧http://43.138.170.29:35455/douyu/9019945 
 粤语剧集http://43.138.170.29:35455/douyu/10567318 
 美亚电影http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+新 视 觉http://171.105.187.50/live2.rxip.sc96655.com/live/ycxsjH265_4000.m3u8
+
  
 
 卫视,#genre#
