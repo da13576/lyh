@@ -1,6 +1,6 @@
 港澳,#genre#
 翡 翠 台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-無綫新聞,http://live.cooltv.top/tv/tvb.php?id=0&hq
+無綫新聞,http://live.cooltv.top/tv/tvb.php?id=0
 無綫新聞,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8 
 now新聞,P2p://generationnexxxt.com:19806/5c263253cf5241b1a155f0b1b85edea1 
@@ -8,10 +8,9 @@ now新聞,P2p://generationnexxxt.com:19806/5c263253cf5241b1a155f0b1b85edea1
 廣東珠江,http://14.212.185.27:9901/tsfile/live/0019_1.m3u8?$8M1920x1080
 廣東珠江,http://ddns.cyruslee.top:8888/udp/239.77.0.3:5146
 鳳凰中文,http://116.162.6.191/qctv.fengshows.cn/live/0701pcc72.m3u8
-鳳凰中文,http://58.216.99.148/live2.rxip.sc96655.com/live/test1_4000.m3u8
+鳳凰中文,http://171.105.187.50/live2.rxip.sc96655.com/live/test1_4000.m3u8
 鳳凰資訊,http://116.162.6.191/qctv.fengshows.cn/live/0701pin72.m3u8
-鳳凰資訊,http://58.216.99.148/live2.rxip.sc96655.com/live/test2_4000.m3u8
-鳳凰資訊,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+鳳凰資訊,http://171.105.187.50/live2.rxip.sc96655.com/live/test2_4000.m3u8
 
 
 体育,#genre#
@@ -57,26 +56,26 @@ CCTV16,http://58.248.112.205:8006/GD_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=56fbZo0WT6r
  
 
 卫视,#genre#
-湖南卫视,http://z.b.bkpcp.top/11.php?id=hunws
 湖南卫视,http://58.248.112.205:8006/GD_CUCC/G_HUNAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHRo9Db0sT8QFSkrF29I7qMlTsBzPp9x%2Bi0NFonroQm9c
 湖南卫视,http://171.105.187.50/live2.rxip.sc96655.com/live/hnwsH265_4000.m3u8
 湖南卫视,http://gouwu.pthv.gitv.tv:91/live/HuNWShd-8M/live.m3u8 
-江苏卫视,http://z.b.bkpcp.top/11.php?id=jsws
+湖南卫视,http://z.b.bkpcp.top/11.php?id=hunws
 江苏卫视,http://58.248.112.205:8006/GD_CUCC/G_JIANGSU-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKu%2BuH8HDFS0PtokY11nWnf4qV6vyu%2BOKjQBSSKsQUVYE
 江苏卫视,http://171.105.187.50/live2.rxip.sc96655.com/live/jswsH265_4000.m3u8
 江苏卫视,http://gouwu.pthv.gitv.tv:91/live/JSWShd-8M/live.m3u8 
-东方卫视,http://z.b.bkpcp.top/11.php?id=dfws
+江苏卫视,http://z.b.bkpcp.top/11.php?id=jsws
 东方卫视,http://171.105.187.50/live2.rxip.sc96655.com/live/dfwsH265_4000.m3u8
 东方卫视,http://gouwu.pthv.gitv.tv:91/live/DFWShd-8M/live.m3u8 
+东方卫视,http://z.b.bkpcp.top/11.php?id=dfws
 浙江卫视,http://171.105.187.50/live2.rxip.sc96655.com/live/zjwsH265_4000.m3u8
 浙江卫视,http://58.248.112.205:8006/GD_CUCC/G_ZHEJIANG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHdr3tmmw%2BL49D6e6Yw0TfYx4NHMHVaPey3ntJx7niV8g
 浙江卫视,http://gouwu.pthv.gitv.tv:91/live/ZJWShd-8M/live.m3u8 
 北京卫视,http://171.105.187.50/live2.rxip.sc96655.com/live/bjwsH265_4000.m3u8
 北京卫视,http://58.248.112.205:8006/GD_CUCC/G_BEIJING-CQ.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNX6pFJlsKFX2elUkY7G9WuZ%2FLZ09yMkeIOMqbveJrzlJ
 北京卫视,http://gouwu.pthv.gitv.tv:91/live/BJWShd-8M/live.m3u8
-广东卫视,http://z.b.bkpcp.top/11.php?id=gdws
 广东卫视,http://171.105.187.50/live2.rxip.sc96655.com/live/gdwsH265_4000.m3u8
 广东卫视,http://gouwu.pthv.gitv.tv:91/live/GDWShd-8M/live.m3u8 
+广东卫视,http://z.b.bkpcp.top/11.php?id=gdws
 深圳卫视,http://171.105.187.50/live2.rxip.sc96655.com/live/szwsH265_4000.m3u8
 深圳卫视,http://58.248.112.205:8006/GD_CUCC/G_SHENZHEN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHdBPUZJQRNJB5bOiIhhUc3d4NHMHVaPey3ntJx7niV8g
 深圳卫视,http://gouwu.pthv.gitv.tv:91/live/SZWShd-8M/live.m3u8 
