@@ -1,5 +1,6 @@
 港澳,#genre#
 翡 翠 台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+無綫新聞,http://live.cooltv.top/tv/tvb.php?id=2
 無綫新聞,http://live.cooltv.top/tv/tvb.php?id=0
 無綫新聞,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8 
@@ -14,9 +15,11 @@ now新聞,P2p://generationnexxxt.com:19806/5c263253cf5241b1a155f0b1b85edea1
 
 
 体育,#genre#
+CCTV5,http://58.248.112.203:8006/GD_CUCC/G_CCTV-5-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHfjI6wzwX5YlP5VGDtCFYEotN86kueV3HZoMvTL28BOV&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 CCTV5,http://171.105.187.50/live2.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8
 CCTV5,http://gouwu.pthv.gitv.tv:91/live/CCTV5hd-8M/live.m3u8
 CCTV5,http://z.b.bkpcp.top/11.php?id=cctv5
+CCTV5+,http://58.248.112.203:8006/GD_CUCC/G_CCTV-5PLUS-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHYdR%2FXUke9cnQAha7YFSVSdY6KJ0YlTSaKwh%2FkUorJB0&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 CCTV5+,http://171.105.187.50/live2.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8
 CCTV5+,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8
 CCTV5+,http://gouwu.pthv.gitv.tv:91/live/CCTV5+hd-8M/live.m3u8
