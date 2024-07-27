@@ -31,7 +31,6 @@ http://dsm.ats.ink:8012/udp/239.3.1.125:8001
 http://n1.rkasdf.com:4022/udp/239.3.1.126:8001
 
  
- 
 #EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/湖南卫视.png",湖南卫视
 http://dsm.ats.ink:8012/udp/239.3.1.132:8012$bjlt 
 #EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/东方卫视.png",东方卫视
@@ -46,8 +45,7 @@ http://dsm.ats.ink:8012/rtp/239.3.1.241:8000
 http://dsm.ats.ink:8012/rtp/239.3.1.142:8048
 #EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/深圳卫视.png",深圳卫视
 http://dsm.ats.ink:8012rtp/239.3.1.134:8020
-  /udp/239.93.0.182:5140
- 
+/udp/239.93.0.182:5140
  
  
 #EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV1综合.png",CCTV1
@@ -64,16 +62,19 @@ http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV8电视剧.png",CCTV8
 http://dsm.ats.ink:8012/udp/239.3.1.175:8001$bjlt
 #EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV4K超高清.png",CCTV4K
-http://dsm.ats.ink:8012/
- /udp/239.255.3.150:9972$hbcd
- 
+http://dsm.ats.ink:8012/udp/239.3.1.244:2000
+/udp/239.255.3.150:9972$hbcd
  
  
 #EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/淘电影.png",IPTV淘电影
 http://n1.rkasdf.com:4022/udp/239.3.1.250:8001
 #EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/电影频道.png",粤语电影
+http://159.75.85.63:35455/douyu/5033502
 #EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/电影频道.png",粤语电影1
+http://159.75.85.63:35455/douyu/6566671
 #EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/电影频道.png",粤语电影2
+http://159.75.85.63:35455/douyu/1226741
+http://diyp2.112114.xyz/douyu/1226741
 #EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/经济科教.png",经济科教
 http://120.198.125.186:9986/udp/239.10.0.112:1025
 /udp/239.77.0.85:5146
