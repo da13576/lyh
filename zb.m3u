@@ -44,7 +44,7 @@ http://dsm.ats.ink:8012/rtp/239.3.1.241:8000
 #EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/广东卫视.png",广东卫视
 http://dsm.ats.ink:8012/rtp/239.3.1.142:8048
 #EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/深圳卫视.png",深圳卫视
-http://dsm.ats.ink:8012rtp/239.3.1.134:8020
+http://dsm.ats.ink:8012/rtp/239.3.1.134:8020
 /udp/239.93.0.182:5140
  
  
@@ -66,7 +66,7 @@ http://dsm.ats.ink:8012/udp/239.3.1.244:2000
 /udp/239.255.3.150:9972$hbcd
  
  
-#EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/淘电影.png",IPTV淘电影
+#EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/淘电影.png",淘电影
 http://n1.rkasdf.com:4022/udp/239.3.1.250:8001
 #EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/电影频道.png",粤语电影
 http://diyp2.112114.xyz/douyu/5033502
