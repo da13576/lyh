@@ -16,7 +16,7 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
  
 
 #EXTINF:-1 group-title="体育" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV5体育.png",CCTV5
-http://dsm.ats.ink:8012 
+http://dsm.ats.ink:8012/rtp/239.3.1.173:8001
 #EXTINF:-1 group-title="体育" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV5+体育赛事.png",CCTV5+
 http://dsm.ats.ink:8012/udp/239.3.1.130:8004$bjlt 
 #EXTINF:-1 group-title="体育" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV16奥林匹克.png",CCTV16
