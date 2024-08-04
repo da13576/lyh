@@ -18,8 +18,10 @@ CCTV5,http://dsm.ats.ink:8012/udp/239.3.1.173:8001
 CCTV5,http://h.berr.cn:3000/udp/225.0.1.5:6140
 CCTV5,http://n1.dddmmh.space:8088/udp/225.0.4.143:7980
 CCTV5+,http://dsm.ats.ink:8012/udp/239.3.1.130:8004
+CCTV5+,http://tnv.asuscomm.com:8012/udp/239.3.1.130:8004$bjlt
 CCTV5+,http://111.0.120.75:8888/udp/233.50.201.220:5140
 CCTV16,http://dsm.ats.ink:8012/udp/239.3.1.184:8001
+CCTV16,http://tnv.asuscomm.com:8012/udp/239.3.1.184:8001$bjlt
 CCTV16,http://h.berr.cn:3000/udp/225.0.0.180:6140
 广东体育,http://www.zz49.top:4022/udp/239.77.0.112:5146
 广东体育,http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
@@ -29,6 +31,8 @@ CCTV16,http://h.berr.cn:3000/udp/225.0.0.180:6140
 睛彩篮球,http://tnv.asuscomm.com:8012/udp/239.3.1.126:8001$bjlt 
 睛彩篮球,http://webmail.axxe.top:4022/rtp/239.3.1.126:8001
 睛彩篮球,http://dsm.ats.ink:8012/udp/239.3.1.126:8001$bjlt 
+睛彩青少,http://tnv.asuscomm.com:8012/udp/239.3.1.127:8001$bjlt
+睛彩青少,http://dsm.ats.ink:8012/udp/239.3.1.127:8001$bjlt
 
 
 地方,#genre#
