@@ -1,16 +1,19 @@
 港澳,#genre#
-翡 翠 台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-翡 翠 台,http://61.238.177.254:30261/stream/channelid/1548166379
+翡 翠 台,https://live.hkdvb.com/hls/live/81.m3u8?token=711869165720741
+翡 翠 台,http://cdn3.1678520.xyz/live/?id=fct2
+翡 翠 台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct 
+翡 翠 台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct 
 無綫新聞,http://live.cooltv.top/tv/tvb.php?id=2
 無綫新聞,http://live.cooltv.top/tv/tvb.php?id=0
 無綫新聞,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8 
+tvb星河,http://61.49.78.60:5003/live1008.m3u8 
 now新聞,P2p://generationnexxxt.com:19806/5c263253cf5241b1a155f0b1b85edea1 
 廣東珠江,http://61.146.224.42:8088/hls/2/index.m3u8
 廣東珠江,http://www.zz49.top:4022/udp/239.77.0.1:5146#http://unraid.cyruslee.top:8888/udp/239.77.0.3:5146
 廣東珠江,http://ddns.cyruslee.top:8888/udp/239.77.0.3:5146
-鳳凰中文,http://116.162.6.191/qctv.fengshows.cn/live/0701pcc72.m3u8
-鳳凰資訊,http://116.162.6.191/qctv.fengshows.cn/live/0701pin72.m3u8
+鳳凰中文,http://183.222.206.14:8096/udp/239.93.0.162:2192$成都电信
+鳳凰資訊,http://183.222.206.14:8096/udp/239.93.0.118:2191$成都电信 
+鳳凰資訊,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
 
 
 体育,#genre#
@@ -23,16 +26,17 @@ CCTV5+,http://111.0.120.75:8888/udp/233.50.201.220:5140
 CCTV16,http://dsm.ats.ink:8012/udp/239.3.1.184:8001
 CCTV16,http://tnv.asuscomm.com:8012/udp/239.3.1.184:8001$bjlt
 CCTV16,http://h.berr.cn:3000/udp/225.0.0.180:6140
+广东体育,http://unraid.aivwqiso.cn:4999/udp/239.77.0.112:5146$mmte 
 广东体育,http://www.zz49.top:4022/udp/239.77.0.112:5146
 广东体育,http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
+睛彩竞技,http://dsm.ats.ink:8012/udp/239.3.1.125:8001$bjlt 
 睛彩竞技,http://tnv.asuscomm.com:8012/udp/239.3.1.125:8001$bjlt 
 睛彩竞技,http://webmail.axxe.top:4022/rtp/239.3.1.125:8001
-睛彩竞技,http://dsm.ats.ink:8012/udp/239.3.1.125:8001$bjlt 
+睛彩篮球,http://dsm.ats.ink:8012/udp/239.3.1.126:8001$bjlt 
 睛彩篮球,http://tnv.asuscomm.com:8012/udp/239.3.1.126:8001$bjlt 
 睛彩篮球,http://webmail.axxe.top:4022/rtp/239.3.1.126:8001
-睛彩篮球,http://dsm.ats.ink:8012/udp/239.3.1.126:8001$bjlt 
-睛彩青少,http://tnv.asuscomm.com:8012/udp/239.3.1.127:8001$bjlt
 睛彩青少,http://dsm.ats.ink:8012/udp/239.3.1.127:8001$bjlt
+睛彩青少,http://tnv.asuscomm.com:8012/udp/239.3.1.127:8001$bjlt
 
 
 地方,#genre#
