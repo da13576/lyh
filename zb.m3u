@@ -6,6 +6,7 @@ http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 group-title="港澳" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/财经体育资讯.png",無綫財經
 http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1 group-title="港澳" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/TVB星河.png",TVB星河
+http://cp.catvbj.top:5003/live1008.m3u8
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 group-title="港澳" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/广东珠江.png",廣東珠江
 http://unraid.aivwqiso.cn:4999/udp/239.77.0.3:5146$mmte
