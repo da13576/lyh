@@ -77,10 +77,13 @@ http://dsm.ats.ink:8012/udp/239.3.1.244:2000
 #EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/淘电影.png",淘电影
 http://n1.rkasdf.com:4022/udp/239.3.1.250:8001
 #EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/电影频道.png",粤语电影
+http://huanqiuzhibo.cn/manifest/douyu.php?id=5033502
 http://diyp2.112114.xyz/douyu/5033502
 #EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/电影频道.png",粤语电影1
+http://huanqiuzhibo.cn/manifest/douyu.php?id=6566671
 http://diyp2.112114.xyz/douyu/6566671
 #EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/电影频道.png",粤语电影2
+http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741
 http://diyp2.112114.xyz/douyu/1226741
 #http://159.75.85.63:35455/douyu/1226741
 #EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/经济科教.png",经济科教
