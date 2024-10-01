@@ -51,10 +51,13 @@ CCTV16,http://h.berr.cn:3000/udp/225.0.0.180:6140
 粤语剧集,http://159.75.85.63:35455/douyu/10338873 
 粤语港剧,http://diyp2.112114.xyz/douyu/9019945 
 粤语港剧,http://159.75.85.63:35455/douyu/9019945 
+粤语电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=5033502
 粤语电影,http://159.75.85.63:35455/douyu/5033502 
 粤语电影,http://diyp2.112114.xyz/douyu/5033502 
+粤语电影2,http://huanqiuzhibo.cn/manifest/douyu.php?id=6566671
 粤语电影2,http://159.75.85.63:35455/douyu/6566671 
-粤语电影2,http://diyp2.112114.xyz/douyu/6566671 
+粤语电影2,http://diyp2.112114.xyz/douyu/6566671
+粤语电影3,http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741
 粤语电影3,http://diyp2.112114.xyz/douyu/1226741 
 粤语电影3,http://159.75.85.63:35455/douyu/1226741 
 粤语港剧http://43.138.170.29:35455/douyu/6478650 
