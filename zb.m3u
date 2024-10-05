@@ -96,6 +96,7 @@ http://120.198.125.186:9986/udp/239.10.0.112:1025
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=46aee5b07e8bb8fc3f5402d93d4859b0&txTime=18f5ff0491d
 http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 #EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/广州新闻.png",广州新闻
+https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=bcd5125e530044fdd5579b629f1fa7cc&txTime=18d6ec9e894
 http://php.jdshipin.com:8880/gztv.php?id=xinwen
  
  
