@@ -1,5 +1,5 @@
 {
-"lives": [{"name": "live","type": 0,"url": "https://pastebin.com/raw/7vnKt7rx","playerType": 1,"ua": "okhttp/3.12.13",
+"lives": [{"name": "live","type": 0,"url": "https://gitdl.cn/https://raw.githubusercontent.com/da13576/lyh/main/zb.txt","playerType": 1,"ua": "okhttp/3.12.13",
 "epg": "https://epg.112114.eu.org","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 
