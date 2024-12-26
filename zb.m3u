@@ -24,7 +24,7 @@ http://my.saopanda.top:18889/rtp/239.3.1.173:8001
 http://119.123.79.35:9600/hls/6/index.m3u8
 http://my.saopanda.top:18889/udp/239.3.1.130:8004$bjlt 
 #EXTINF:-1 group-title="体育" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV16奥林匹克.png",CCTV16
-http://my.saopanda.top:18889/udp/239.3.1.184:8001$bjlt
+http://123.117.39.22:88/udp/239.3.1.184:8001$bjlt
 #EXTINF:-1 group-title="体育" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/广东体育.png",广东体育
 http://14.212.185.71:9901/tsfile/live/1003_1.m3u8
 /udp/239.77.0.112:5146$mmte
@@ -48,7 +48,7 @@ http://unraid.aivwqiso.cn:4999/udp/239.77.1.22:5146$mmte
 http://119.123.79.35:9600/hls/34/index.m3u8
 http://my.saopanda.top:18889/udp/239.3.1.132:8012$bjlt 
 #EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/东方卫视.png",东方卫视
-http://my.saopanda.top:18889/rtp/239.3.1.136:8032
+http://123.117.39.22:88/rtp/239.3.1.136:8032
 #EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/江苏卫视.png",江苏卫视
 http://119.123.79.35:9600/hls/38/index.m3u8
 http://my.saopanda.top:18889/rtp/239.3.1.135:8028
@@ -68,25 +68,24 @@ http://my.saopanda.top:18889/rtp/239.3.1.134:8020
  
  
 #EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV1综合.png",CCTV1
-http://my.saopanda.top:18889/udp/239.3.1.129:8008$bjlt
+http://123.117.39.22:88/udp/239.3.1.129:8008$bjlt
 #EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV2财经.png",CCTV2
-http://my.saopanda.top:18889/rtp/239.3.1.60:8084
+http://123.117.39.22:88/rtp/239.3.1.60:8084
 #EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV3综艺.png",CCTV3
-http://my.saopanda.top:18889/rtp/239.3.1.172:8001
+http://123.117.39.22:88/rtp/239.3.1.172:8001
 #EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV4中文国际.png",CCTV4
-http://my.saopanda.top:18889/rtp/239.3.1.105:8092
+http://123.117.39.22:88/rtp/239.3.1.105:8092
 #EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV6电影.png",CCTV6
-http://my.saopanda.top:18889/udp/239.3.1.174:8001$bjlt1202
-http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
+http://123.117.39.22:88/rtp/239.3.1.174:8001
 #EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV8电视剧.png",CCTV8
-http://my.saopanda.top:18889/udp/239.3.1.175:8001$bjlt
+http://123.117.39.22:88/udp/239.3.1.175:8001$bjlt
 #EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV4K超高清.png",CCTV4K
-http://my.saopanda.top:18889/udp/239.3.1.244:2000
+http://123.117.39.22:88/udp/239.3.1.244:2000
 /udp/239.255.3.150:9972$hbcd
  
  
 #EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/淘电影.png",淘电影
-http://my.saopanda.top:18889/udp/239.3.1.250:8001
+http://123.117.39.22:88/udp/239.3.1.250:8001
 #EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/电影频道.png",粤语电影
 http://huanqiuzhibo.cn/manifest/douyu.php?id=5033502
 http://diyp2.112114.xyz/douyu/5033502
