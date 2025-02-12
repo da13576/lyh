@@ -3,23 +3,31 @@
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct 
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct 
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+翡翠台,http://cdn.163189.xyz/live/fct4k/stream.m3u8
+翡翠台,http://cdn.132.us.kg/live/fct4k/stream.m3u8
+
 無綫新聞,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-無綫新聞,http://live.cooltv.top/tv/tvb.php?id=2
+無綫新聞,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 無綫新聞,http://live.cooltv.top/tv/tvb.php?id=0
+
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-TVB星河,http://cp.catvbj.top:5003/live1008.m3u8 
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-now新聞,P2p://generationnexxxt.com:19806/86a69c6de155405ba916819e2634aa74
+
+now新聞,https://zhibo.ylxai.top/api/iptv/playurl?tid=gt&id=17
 now新聞,P2p://generationnexxxt.com:19806/b9ba3f0b06b14fe69ac2cbf51c77d816
-鳳凰資訊,http://home.suerwei.net:64444/udp/239.93.1.4:2191 
-鳳凰資訊,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
+
+鳳凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8 
 鳳凰資訊,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx 
-鳳凰中文,http://home.suerwei.net:64444/udp/239.93.1.9:2192  
+
+鳳凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8  
 鳳凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-廣東珠江,http://unraid.cyruslee.top:8888/udp/239.77.0.3:5146
-廣東珠江,http://www.zz49.top:4022/udp/239.77.0.1:5146
-廣東珠江,http://ddns.cyruslee.top:8888/udp/239.77.0.3:5146
+
+廣東珠江,rtp://@239.77.0.1:5146
+廣東珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+廣東珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 
 
 体育,#genre#
@@ -34,12 +42,16 @@ CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
 CCTV5+,rtp://@239.77.0.87:5146
 CCTV5+,http://www.998969.xyz:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
 CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
+
 CCTV16,rtp://@239.77.1.76:5146
 CCTV16,http://www.998969.xyz:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
+
 睛彩篮球,rtp://@239.77.1.21:5146
 睛彩篮球,http://www.998969.xyz:35455/itv/2000000003000000065.m3u8?cdn=hnbblive
+
 睛彩竞技,rtp://@239.77.1.20:5146
 睛彩竞技,http://www.998969.xyz:35455/itv/2000000003000000060.m3u8?cdn=hnbblive
+
 睛彩青少,rtp://@239.77.1.22:5146
 睛彩青少,http://tnv.asuscomm.com:8012/udp/239.3.1.127:8001$bjlt
 
@@ -121,27 +133,37 @@ CCTV4K,http://h.berr.cn:3000/udp/225.0.0.127:6140
 地方,#genre#
 淘 电 影,http://dsm.ats.ink:8012/udp/239.3.1.250:8001$bjlt 
 淘 电 影,http://tnv.asuscomm.com:8012/udp/239.3.1.250:8001$bjlt 
-周 星 驰http://open-tct.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_2000.flv?wsAuth=d77f94aacb13db42c68c0f135eedec48&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0185175015db304d46caaef0c1888ae20&logo=0&expire=0&did=10000000000000000000000000001501&origin=tct&vhos
-华语电影,http://open-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=e75b875358c4ad5e9dd718192bd3eee3&token=cpn-androidmpro-0-85894-a3575d938a4aa3093906420ddd05c4e6c6cdd142fbcabb69&logo=0&expire=0&did=10000000000000000000000000001501&origin=tct&vhost=p
-粤语剧集,http://diyp2.112114.xyz/douyu/10338873 
-粤语剧集,http://159.75.85.63:35455/douyu/10338873 
-粤语港剧,http://diyp2.112114.xyz/douyu/9019945 
-粤语港剧,http://159.75.85.63:35455/douyu/9019945 
+
+粤语剧集,http://huanqiuzhibo.cn/manifest/douyu.php?id=10338873 
+粤语剧集,http://zzy789.xyz/douyu1.php?id=10338873 
+
+粤语港剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=9019945
+粤语港剧,http://zzy789.xyz/douyu1.php?id=9019945 
+
 粤语电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=5033502
-粤语电影,http://159.75.85.63:35455/douyu/5033502 
+粤语电影,http://zzy789.xyz/douyu1.php?id=5033502 
 粤语电影,http://diyp2.112114.xyz/douyu/5033502 
 粤语电影2,http://huanqiuzhibo.cn/manifest/douyu.php?id=6566671
-粤语电影2,http://159.75.85.63:35455/douyu/6566671 
+粤语电影2,http://zzy789.xyz/douyu1.php?id=6566671 
 粤语电影2,http://diyp2.112114.xyz/douyu/6566671
+
 粤语电影3,http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741
-粤语电影3,http://diyp2.112114.xyz/douyu/1226741 
+粤语电影3,http://zzy789.xyz/douyu1.php?id=1226741 
 粤语电影3,http://159.75.85.63:35455/douyu/1226741 
-粤语港剧http://43.138.170.29:35455/douyu/6478650 
-粤语剧集http://43.138.170.29:35455/douyu/10567318
+
+
+
+
+
+
+
+
+
 
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=46aee5b07e8bb8fc3f5402d93d4859b0&txTime=18f5ff0491d
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=bcd5125e530044fdd5579b629f1fa7cc&txTime=18d6ec9e894
-
-
-
+周 星 驰http://open-tct.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_2000.flv?wsAuth=d77f94aacb13db42c68c0f135eedec48&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0185175015db304d46caaef0c1888ae20&logo=0&expire=0&did=10000000000000000000000000001501&origin=tct&vhos
+华语电影http://open-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=e75b875358c4ad5e9dd718192bd3eee3&token=cpn-androidmpro-0-85894-a3575d938a4aa3093906420ddd05c4e6c6cdd142fbcabb69&logo=0&expire=0&did=10000000000000000000000000001501&origin=tct&vhost=p
+粤语港剧http://43.138.170.29:35455/douyu/6478650
+粤语剧集http://43.138.170.29:35455/douyu/10567318
 http://apollo.x3322.net:9999/udp/228.1.1.123:8001
