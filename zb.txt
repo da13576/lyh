@@ -93,7 +93,9 @@ CCTV16,http://www.998969.xyz:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
 广东卫视,rtp://@239.77.1.19:5146
 广东卫视,http://www.998969.xyz:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
 
-深圳卫视,rtp://@239.77.0.130:5146
+深圳卫视,rtp://@239.77.1.3:5146
+深圳卫视,rtp://@239.77.0.92:5146
+深圳卫视,rtp://@239.77.1.148:5146
 深圳卫视,http://www.998969.xyz:35455/itv/1000000005000265028.m3u8?cdn=ystenlive
 
 
@@ -152,22 +154,20 @@ CCTV4K,rtp://@239.77.0.194:5146
 淘 电 影,http://dsm.ats.ink:8012/udp/239.3.1.250:8001$bjlt 
 淘 电 影,http://tnv.asuscomm.com:8012/udp/239.3.1.250:8001$bjlt 
 
-粤语剧集,http://huanqiuzhibo.cn/manifest/douyu.php?id=10338873 
-粤语剧集,http://zzy789.xyz/douyu1.php?id=10338873 
-
-粤语港剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=9019945
-粤语港剧,http://zzy789.xyz/douyu1.php?id=9019945 
-
 粤语电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=5033502
 粤语电影,http://zzy789.xyz/douyu1.php?id=5033502 
-粤语电影,http://diyp2.112114.xyz/douyu/5033502 
+ 
 粤语电影2,http://huanqiuzhibo.cn/manifest/douyu.php?id=6566671
 粤语电影2,http://zzy789.xyz/douyu1.php?id=6566671 
-粤语电影2,http://diyp2.112114.xyz/douyu/6566671
 
 粤语电影3,http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741
 粤语电影3,http://zzy789.xyz/douyu1.php?id=1226741 
-粤语电影3,http://159.75.85.63:35455/douyu/1226741 
+
+动作影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
+动作影院,http://zzy789.xyz/douyu1.php?id=122402
+
+恐怖影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=218859
+恐怖影院,http://zzy789.xyz/douyu1.php?id=218859
 
 1905电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
 
