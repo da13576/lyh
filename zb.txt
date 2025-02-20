@@ -168,7 +168,7 @@ CCTV4K,rtp://239.77.1.180:5146
 CCTV4K,rtp://239.77.0.194:5146
 
 
-影视,#genre#
+电影,#genre#
 淘 电 影,http://dsm.ats.ink:8012/udp/239.3.1.250:8001$bjlt 
 淘 电 影,http://tnv.asuscomm.com:8012/udp/239.3.1.250:8001$bjlt 
 
