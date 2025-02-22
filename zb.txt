@@ -9,25 +9,26 @@
 
 無綫新聞,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 無綫新聞,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-無綫新聞,http://live.cooltv.top/tv/tvb.php?id=0
+無綫新聞,http://108.181.20.181/livehttpplay?channel_id=30024
+無綫新聞http://live.cooltv.top/tv/tvb.php?id=0
 
+TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+TVB星河,http://108.181.20.197/livehttpplay?channel_id=20070
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB星河,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476200.m3u8
-TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 
-now新聞,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477070.m3u8
-now新聞https://zhibo.ylxai.top/api/iptv/playurl?tid=gt&id=17
+Now新聞,http://108.181.20.197/livehttpplay?channel_id=20041
+Now新聞,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477070.m3u8
 
+HOY资讯,http://108.181.20.197/livehttpplay?channel_id=20191
 HOY资讯,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476957.m3u8
-HOY资讯https://zhibo.ylxai.top/api/iptv/playurl?tid=gt&id=23
-HOY资讯https://zhibo.ylxai.top/api/iptv/playurl?tid=gt&id=11
 
-鳳凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8 
 鳳凰資訊,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx 
+鳳凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8 
 
-鳳凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8  
 鳳凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+鳳凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8  
 
 广东,#genre#
 广东珠江,rtp://239.77.0.1:5146
@@ -62,17 +63,12 @@ CCTV16,rtp://239.77.0.165:5146
 
 广东体育,rtp://239.77.0.112:5146
 广东体育,rtp://239.77.0.168:5146
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 
 睛彩篮球,rtp://239.77.1.21:5146
-睛彩篮球,http://www.998969.xyz:35455/itv/2000000003000000065.m3u8?cdn=hnbblive
 
 睛彩竞技,rtp://239.77.1.20:5146
-睛彩竞技,http://www.998969.xyz:35455/itv/2000000003000000060.m3u8?cdn=hnbblive
 
 睛彩青少,rtp://239.77.1.22:5146
-睛彩青少,http://tnv.asuscomm.com:8012/udp/239.3.1.127:8001$bjlt
 
 
 卫视,#genre#
@@ -168,24 +164,31 @@ CCTV4K,rtp://239.77.1.180:5146
 CCTV4K,rtp://239.77.0.194:5146
 
 
-电影,#genre#
-淘 电 影,http://dsm.ats.ink:8012/udp/239.3.1.250:8001$bjlt 
-淘 电 影,http://tnv.asuscomm.com:8012/udp/239.3.1.250:8001$bjlt 
+斗鱼,#genre#
+粤语港剧,http://hulun.top:35455/douyu/6478650
+粤语港剧,http://ott.eonn.cn:35455/douyu/6478650
+粤语港剧,http://zzy789.xyz/douyu1.php?id=6478650
 
+粤语电影http://hulun.top:35455/douyu/5033502
 粤语电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=5033502
 粤语电影,http://zzy789.xyz/douyu1.php?id=5033502 
- 
+
+粤语电影2,http://hulun.top:35455/douyu/6566671
 粤语电影2,http://huanqiuzhibo.cn/manifest/douyu.php?id=6566671
 粤语电影2,http://zzy789.xyz/douyu1.php?id=6566671 
 
+粤语电影3,http://hulun.top:35455/douyu/1226741
 粤语电影3,http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741
 粤语电影3,http://zzy789.xyz/douyu1.php?id=1226741 
 
-动作影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
-动作影院,http://zzy789.xyz/douyu1.php?id=122402
+苹果影院,http://hulun.top:35455/douyu/2793084
+苹果影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=2793084
+苹果影院,http://zzy789.xyz/douyu1.php?id=2793084
 
-恐怖影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=218859
-恐怖影院,http://zzy789.xyz/douyu1.php?id=218859
+邵氏影院,http://hulun.top:35455/douyu/4246519
+邵氏影院,http://ott.eonn.cn:35455/douyu/4246519
+邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
+邵氏影院,https://live.iill.top/douyu/4246519
 
 1905电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
 
