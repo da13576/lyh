@@ -10,30 +10,30 @@
 翡翠台,http://cdn.163189.xyz/live/fct4k/stream.m3u8
 翡翠台,http://cdn.132.us.kg/live/fct4k/stream.m3u8
 
+TVB星河,http://108.181.20.215:27347/livehttpplay?channel_id=20070
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVB星河,http://108.181.20.197/livehttpplay?channel_id=20070
-TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-TVB星河,https://haoyunlai.serv00.net/Smartv-1.php?id=Xinhe
 
 無綫新聞,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 無綫新聞,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-無綫新聞,http://108.181.20.181/livehttpplay?channel_id=30024
+無綫新聞,http://108.181.21.31:27347/livehttpplay?channel_id=30024
 無綫新聞http://live.cooltv.top/tv/tvb.php?id=0
 
-Now新聞,http://65.108.74.147:49366/iptv.php?key=gat4&id=15
 Now新聞,http://live4play.uk/livehttpplay?channel_id=20041
 Now新聞,http://108.181.20.197/livehttpplay?channel_id=20041
+Now新聞,http://108.181.21.31:27347/livehttpplay?channel_id=20082
 
 HOY资讯,http://live4play.uk/livehttpplay?channel_id=20191
 HOY资讯,http://108.181.20.197/livehttpplay?channel_id=20191
 
 鳳凰資訊,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx 
-鳳凰資訊,http://108.181.20.197/livehttpplay?channel_id=30015
+鳳凰資訊,http://108.181.21.31:27347/livehttpplay?channel_id=30015
 鳳凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8 
 
 鳳凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-鳳凰中文,http://108.181.20.197/livehttpplay?channel_id=30014
+鳳凰中文,http://108.181.21.31:27347/livehttpplay?channel_id=30014
 鳳凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8  
 
 广东,#genre#
@@ -187,6 +187,8 @@ CCTV4K,rtp://239.77.0.194:5146
 粤语电影3,http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741
 粤语电影3,http://zzy789.xyz/douyu1.php?id=1226741 
 
+美亚电影,http://108.181.21.31:27347/livehttpplay?channel_id=20197
+
 苹果影院,http://hulun.top:35455/douyu/2793084
 苹果影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=2793084
 苹果影院,http://zzy789.xyz/douyu1.php?id=2793084
@@ -196,7 +198,7 @@ CCTV4K,rtp://239.77.0.194:5146
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
 邵氏影院,https://live.iill.top/douyu/4246519
 
-1905电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
+
 
 
 
