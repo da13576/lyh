@@ -1,3 +1,5 @@
+
+https://github.moeyy.xyz/https://raw.githubusercontent.com/da13576/lyh/refs/heads/main/zb.pls
 央视频道,#genre#
 CCTV1,rtp://239.77.0.30:5146
 睛彩竞技,rtp://239.77.1.20:5146
