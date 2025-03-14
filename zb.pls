@@ -1,0 +1,16 @@
+[scdx-playlist]
+NumberOfEntries=6
+File1=http://119.32.12.17:2901/udp/224.1.100.121:11111
+Title1=翡翠台
+File2=http://108.181.21.27:27347/livehttpplay?channel_id=20028
+Title2=壹新闻
+File3=http://qjrhc.jydjd.top:2911/udp/224.1.100.23:11111
+Title3=广东珠江
+File4=http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+Title4=TVB星河
+File5=http://php.jdshipin.com:8880/smt.php?id=inews_twn
+Title5=無綫新聞
+File6=http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+Title6=千禧经典
+NumberOfEntries=6
+Version=2
