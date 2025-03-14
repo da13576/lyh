@@ -1,4 +1,4 @@
-[scdx-playlist]
+[zb-playlist]
 NumberOfEntries=6
 File1=http://119.32.12.17:2901/udp/224.1.100.121:11111
 Title1=翡翠台
