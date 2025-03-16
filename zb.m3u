@@ -4,7 +4,7 @@ http://php.jdshipin.com:8880/smt.php?id=jade_twn
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 
 #EXTINF:-1 group-title="港澳" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/千禧经典.png",千禧经典
-
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 
 #EXTINF:-1 group-title="港澳" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/TVB星河.png",TVB星河
 http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
@@ -14,7 +14,7 @@ http://cp.catvbj.top:5003/live1007.m3u8
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
 #EXTINF:-1 group-title="港澳" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/Now新闻.png",Now新聞
-
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 
 #EXTINF:-1 group-title="港澳" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/凤凰资讯.png",鳳凰資訊
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
@@ -38,12 +38,15 @@ https://yunmei.tv/main/cctv-16.m3u8
 http://qjrhc.jydjd.top:2911/udp/224.1.100.33:11111
 
 #EXTINF:-1 group-title="体育" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/睛彩竞技.png",睛彩竞技
+/itv/3000000020000011530.m3u8?cdn=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
 http://xrhui.f3322.org:8888/udp/233.50.202.26:5140
 
 #EXTINF:-1 group-title="体育" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/睛彩篮球.png",睛彩篮球
+/itv/3000000020000011529.m3u8?cdn=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=3
 http://xrhui.f3322.org:8888/udp/233.50.202.27:5140
 
 #EXTINF:-1 group-title="体育" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/睛彩青少.png",睛彩青少
+/itv/3000000020000031315.m3u8?cdn=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=3
 http://xrhui.f3322.org:8888/udp/233.50.202.28:5140
 
  
@@ -109,19 +112,17 @@ https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=bcd5125e530044fdd5579b629
 http://php.jdshipin.com:8880/gztv.php?id=xinwen
  
 #EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/东方影视.png",东方影视
-
+/2000000002000000013.m3u8?cdn=hnbblive&Contentid=2000000002000000013&livemode=1&stbId=3
 
 #EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/电影频道.png",粤语电影
 http://huanqiuzhibo.cn/manifest/douyu.php?id=5033502
 
 #EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/电影频道.png",粤语电影1
-http://huanqiuzhibo.cn/manifest/douyu.php?id=6566671
-
-#EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/电影频道.png",粤语电影2
 http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741
 
 
- 
+#EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/电影频道.png",粤语电影
+#http://huanqiuzhibo.cn/manifest/douyu.php?id=6566671
 
  
  
