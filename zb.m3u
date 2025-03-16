@@ -1,114 +1,126 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 group-title="港澳" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/翡翠台.png",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 group-title="港澳" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/翡翠台.png",華麗翡翠
-http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
-#EXTINF:-1 group-title="港澳" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/无线新闻台.png",無綫新聞
-http://php.jdshipin.com:8880/smt.php?id=inews_twn
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+
+#EXTINF:-1 group-title="港澳" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/千禧经典.png",千禧经典
+
+
 #EXTINF:-1 group-title="港澳" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/TVB星河.png",TVB星河
 http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
-http://cp.catvbj.top:5003/live1008.m3u8
-#EXTINF:-1 group-title="港澳" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/凤凰卫视资讯台.png",鳳凰資訊
+http://cp.catvbj.top:5003/live1007.m3u8
+
+#EXTINF:-1 group-title="港澳" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/无线新闻.png",無綫新聞
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+
+#EXTINF:-1 group-title="港澳" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/Now新闻.png",Now新聞
+
+
+#EXTINF:-1 group-title="港澳" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/凤凰资讯.png",鳳凰資訊
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="港澳" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/凤凰卫视中文台.png",鳳凰中文
+
+#EXTINF:-1 group-title="港澳" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/凤凰中文.png",鳳凰中文
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="港澳" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/广东珠江.png",廣東珠江
-http://119.123.79.35:9600/hls/17/index.m3u8
-http://unraid.aivwqiso.cn:4999/udp/239.77.0.3:5146$mmte
- 
+
+
+
 
 #EXTINF:-1 group-title="体育" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV5体育.png",CCTV5
-http://119.123.79.35:9600/hls/5/index.m3u8
-http://my.saopanda.top:18889/rtp/239.3.1.173:8001
+http://qjrhc.jydjd.top:2911/udp/224.1.100.81:11111
+
 #EXTINF:-1 group-title="体育" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV5+体育赛事.png",CCTV5+
-http://119.123.79.35:9600/hls/6/index.m3u8
-http://my.saopanda.top:18889/udp/239.3.1.130:8004$bjlt 
+http://qjrhc.jydjd.top:2911/udp/224.1.100.26:11111
+
 #EXTINF:-1 group-title="体育" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV16奥林匹克.png",CCTV16
-http://123.117.39.22:88/udp/239.3.1.184:8001$bjlt
+https://yunmei.tv/main/cctv-16.m3u8
+
 #EXTINF:-1 group-title="体育" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/广东体育.png",广东体育
-http://14.212.185.71:9901/tsfile/live/1003_1.m3u8
-/udp/239.77.0.112:5146$mmte
-/udp/239.10.0.113:1025
-/udp/239.20.0.103:2004
+http://qjrhc.jydjd.top:2911/udp/224.1.100.33:11111
+
 #EXTINF:-1 group-title="体育" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/睛彩竞技.png",睛彩竞技
 http://xrhui.f3322.org:8888/udp/233.50.202.26:5140
-http://my.saopanda.top:18889/udp/239.3.1.125:8001
-http://unraid.aivwqiso.cn:4999/udp/239.77.1.20:5146$mmte
-http://www.flyskyman.cn:4022/udp/233.50.201.193:5140
+
 #EXTINF:-1 group-title="体育" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/睛彩篮球.png",睛彩篮球
 http://xrhui.f3322.org:8888/udp/233.50.202.27:5140
-http://my.saopanda.top:18889/udp/239.3.1.126:8001
-http://unraid.aivwqiso.cn:4999/udp/239.77.1.21:5146$mmte
+
 #EXTINF:-1 group-title="体育" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/睛彩青少.png",睛彩青少
 http://xrhui.f3322.org:8888/udp/233.50.202.28:5140
-http://my.saopanda.top:18889/udp/239.3.1.125:8001
-http://unraid.aivwqiso.cn:4999/udp/239.77.1.22:5146$mmte
+
  
 #EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/湖南卫视.png",湖南卫视
-http://119.123.79.35:9600/hls/34/index.m3u8
-http://my.saopanda.top:18889/udp/239.3.1.132:8012$bjlt 
+http://qjrhc.jydjd.top:2911/udp/224.1.100.97:11111
+
 #EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/东方卫视.png",东方卫视
-http://123.117.39.22:88/rtp/239.3.1.136:8032
+http://qjrhc.jydjd.top:2911/udp/224.1.100.47:11111
+
 #EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/江苏卫视.png",江苏卫视
-http://119.123.79.35:9600/hls/38/index.m3u8
-http://my.saopanda.top:18889/rtp/239.3.1.135:8028
+http://qjrhc.jydjd.top:2911/udp/224.1.100.45:11111
+
 #EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/浙江卫视.png",浙江卫视
-http://119.123.79.35:9600/hls/35/index.m3u8
-http://my.saopanda.top:18889/rtp/239.3.1.137:8036
+http://qjrhc.jydjd.top:2911/udp/224.1.100.51:11111
+
 #EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/北京卫视.png",北京卫视
-http://119.123.79.35:9600/hls/37/index.m3u8
-http://my.saopanda.top:18889/rtp/239.3.1.241:8000
+http://qjrhc.jydjd.top:2911/udp/224.1.100.99:11111
+
 #EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/广东卫视.png",广东卫视
-http://119.123.79.35:9600/hls/48/index.m3u8
-http://my.saopanda.top:18889/rtp/239.3.1.142:8048
+http://qjrhc.jydjd.top:2911/udp/224.1.100.95:11111
+
 #EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/深圳卫视.png",深圳卫视
-http://119.123.79.35:9600/hls/29/index.m3u8
-http://my.saopanda.top:18889/rtp/239.3.1.134:8020
-/udp/239.93.0.182:5140
- 
+http://qjrhc.jydjd.top:2911/udp/224.1.100.39:11111
+
+
+
  
 #EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV1综合.png",CCTV1
-http://123.117.39.22:88/udp/239.3.1.129:8008$bjlt
+http://qjrhc.jydjd.top:2911/udp/224.1.100.89:11111
+
 #EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV2财经.png",CCTV2
-http://123.117.39.22:88/rtp/239.3.1.60:8084
+http://qjrhc.jydjd.top:2911/udp/224.1.100.93:11111
+
 #EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV3综艺.png",CCTV3
-http://123.117.39.22:88/rtp/239.3.1.172:8001
+http://qjrhc.jydjd.top:2911/udp/224.1.100.63:11111
+
 #EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV4中文国际.png",CCTV4
-http://123.117.39.22:88/rtp/239.3.1.105:8092
+http://qjrhc.jydjd.top:2911/udp/224.1.100.103:11111
+
 #EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV6电影.png",CCTV6
-http://123.117.39.22:88/rtp/239.3.1.174:8001
+http://qjrhc.jydjd.top:2911/udp/224.1.100.83:11111
+
 #EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV8电视剧.png",CCTV8
-http://123.117.39.22:88/udp/239.3.1.175:8001$bjlt
+http://qjrhc.jydjd.top:2911/udp/224.1.100.85:11111
+
 #EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV4K超高清.png",CCTV4K
-http://123.117.39.22:88/udp/239.3.1.244:2000
-/udp/239.255.3.150:9972$hbcd
+
+
+
  
- 
-#EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/淘电影.png",淘电影
-http://123.117.39.22:88/udp/239.3.1.250:8001
-#EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/电影频道.png",粤语电影
-http://huanqiuzhibo.cn/manifest/douyu.php?id=5033502
-http://diyp2.112114.xyz/douyu/5033502
-#EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/电影频道.png",粤语电影1
-http://huanqiuzhibo.cn/manifest/douyu.php?id=6566671
-http://diyp2.112114.xyz/douyu/6566671
-#EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/电影频道.png",粤语电影2
-http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741
-http://diyp2.112114.xyz/douyu/1226741
-#http://159.75.85.63:35455/douyu/1226741
+#EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/广东珠江.png",广东珠江
+http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111
+
 #EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/经济科教.png",经济科教
-http://119.123.79.35:9600/hls/22/index.m3u8
-http://unraid.aivwqiso.cn:4999/udp/239.77.0.85:5146$mmte
-http://120.198.125.186:9986/udp/239.10.0.112:1025
-/udp/239.77.0.85:5146
-/udp/239.20.0.102:2002
+http://qjrhc.jydjd.top:2911/udp/224.1.100.158:11111
+
 #EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/广州综合.png",广州综合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=46aee5b07e8bb8fc3f5402d93d4859b0&txTime=18f5ff0491d
 http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+
 #EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/广州新闻.png",广州新闻
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=bcd5125e530044fdd5579b629f1fa7cc&txTime=18d6ec9e894
 http://php.jdshipin.com:8880/gztv.php?id=xinwen
  
+#EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/东方影视.png",东方影视
+
+
+#EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/电影频道.png",粤语电影
+http://huanqiuzhibo.cn/manifest/douyu.php?id=5033502
+
+#EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/电影频道.png",粤语电影1
+http://huanqiuzhibo.cn/manifest/douyu.php?id=6566671
+
+#EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/电影频道.png",粤语电影2
+http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741
+
+
  
 
  
