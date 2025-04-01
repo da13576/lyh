@@ -53,7 +53,7 @@ http://xrhui.f3322.org:8888/udp/233.50.202.28:5140
 
  
 #EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/湖南卫视.png",湖南卫视
-
+http://58.243.224.244:9901/tsfile/live/1019_1.m3u8
 
 #EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/东方卫视.png",东方卫视
 http://z.b.bkpcp.top/m.php?id=dfws
@@ -71,7 +71,7 @@ http://z.b.bkpcp.top/m.php?id=bjws
 http://z.b.bkpcp.top/m.php?id=gdws
 
 #EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/深圳卫视.png",深圳卫视
-
+http://58.243.224.244:9901/tsfile/live/1027_1.m3u8
 
 
 
