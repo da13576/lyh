@@ -4,6 +4,7 @@ http://php.jdshipin.com:8880/smt.php?id=jade_twn
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 
 #EXTINF:-1 group-title="港澳" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/TVB星河.png",TVB星河
+http://108.181.20.215:27347/livehttpplay?channel_id=20070
 http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
 http://cp.catvbj.top:5003/live1007.m3u8
 
@@ -14,6 +15,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
 #EXTINF:-1 group-title="港澳" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/Now新闻.png",Now新聞
+http://live4play.uk/livehttpplay?channel_id=20041
 https://live.iill.top/youtube/@globalnewstw
 
 #EXTINF:-1 group-title="港澳" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/凤凰资讯.png",鳳凰資訊
@@ -26,91 +28,115 @@ http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 
 
 #EXTINF:-1 group-title="体育" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV5体育.png",CCTV5
+http://192.168.1.111:7088/udp/239.77.1.8:5146
 http://z.b.bkpcp.top/m.php?id=cctv5
 
 #EXTINF:-1 group-title="体育" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV5+体育赛事.png",CCTV5+
+http://192.168.1.111:7088/udp/239.77.1.31:5146
 http://z.b.bkpcp.top/m.php?id=cctv5p
 
 #EXTINF:-1 group-title="体育" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV16奥林匹克.png",CCTV16
+http://192.168.1.111:7088/udp/239.77.0.165:5146
 https://yunmei.tv/main/cctv-16.m3u8
 
 #EXTINF:-1 group-title="体育" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/广东体育.png",广东体育
+http://192.168.1.111:7088/udp/239.77.0.112:5146
 http://cdn2.163189.xyz/live/gdty/stream.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 
 #EXTINF:-1 group-title="体育" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/睛彩竞技.png",睛彩竞技
+http://192.168.1.111:7088/udp/239.77.1.20:5146
 http://nhljz.net:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
 http://xrhui.f3322.org:8888/udp/233.50.202.26:5140
 
 #EXTINF:-1 group-title="体育" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/睛彩篮球.png",睛彩篮球
+http://192.168.1.111:7088/udp/239.77.1.21:5146
 http://nhljz.net:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
 http://xrhui.f3322.org:8888/udp/233.50.202.27:5140
 
 #EXTINF:-1 group-title="体育" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/睛彩青少.png",睛彩青少
+http://192.168.1.111:7088/udp/239.77.1.22:5146
 http://nhljz.net:35455/itv/3000000020000031315.m3u8?cdn=FifastbLive
 http://xrhui.f3322.org:8888/udp/233.50.202.28:5140
 
 
  
 #EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/湖南卫视.png",湖南卫视
+http://192.168.1.111:7088/udp/239.77.1.5:5146
 http://58.243.224.244:9901/tsfile/live/1019_1.m3u8
 
 #EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/东方卫视.png",东方卫视
+http://192.168.1.111:7088/udp/239.77.1.218:5146
 http://z.b.bkpcp.top/m.php?id=dfws
 
 #EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/江苏卫视.png",江苏卫视
+http://192.168.1.111:7088/udp/239.77.1.18:5146
 http://z.b.bkpcp.top/m.php?id=jsws
 
 #EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/浙江卫视.png",浙江卫视
+http://192.168.1.111:7088/udp/239.77.1.33:5146
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
 #EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/北京卫视.png",北京卫视
+http://192.168.1.111:7088/udp/239.77.0.2:5146
 http://z.b.bkpcp.top/m.php?id=bjws
 
 #EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/广东卫视.png",广东卫视
+http://192.168.1.111:7088/udp/239.77.1.19:5146
 http://z.b.bkpcp.top/m.php?id=gdws
 
 #EXTINF:-1 group-title="卫视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/深圳卫视.png",深圳卫视
+http://192.168.1.111:7088/udp/239.77.1.3:5146
 http://58.243.224.244:9901/tsfile/live/1027_1.m3u8
 
 
 
  
 #EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV1综合.png",CCTV1
+http://192.168.1.111:7088/udp/239.77.1.17:5146
 http://z.b.bkpcp.top/m.php?id=cctv1
 
 #EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV2财经.png",CCTV2
+http://192.168.1.111:7088/udp/239.77.1.158:5146
 http://z.b.bkpcp.top/m.php?id=cctv2
 
 #EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV3综艺.png",CCTV3
+http://192.168.1.111:7088/udp/239.77.1.7:5146
 http://z.b.bkpcp.top/m.php?id=cctv3
 
 #EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV4中文国际.png",CCTV4
+http://192.168.1.111:7088/udp/239.77.1.163:5146
 http://z.b.bkpcp.top/m.php?id=cctv4
 
 #EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV6电影.png",CCTV6
+http://192.168.1.111:7088/udp/239.77.1.9:5146
 http://z.b.bkpcp.top/m.php?id=cctv6
 
 #EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV7国防军事.png",CCTV7
+http://192.168.1.111:7088/udp/239.77.1.159:5146
 http://8.138.7.223/tv/cctv7.m3u8
 
 #EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV8电视剧.png",CCTV8
+http://192.168.1.111:7088/udp/239.77.1.10:5146
 http://z.b.bkpcp.top/m.php?id=cctv8
 
 #EXTINF:-1 group-title="央视" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV4K超高清.png",CCTV4K
-
+http://192.168.1.111:7088/udp/239.77.1.180:5146
 
 
  
 #EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/广东珠江.png",广东珠江
+http://192.168.1.111:7088/udp/239.77.0.1:5146
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj 
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 
 #EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/广州综合.png",广州综合
+http://192.168.1.111:7088/udp/239.253.43.71:5146
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=46aee5b07e8bb8fc3f5402d93d4859b0&txTime=18f5ff0491d
 http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 
 #EXTINF:-1 group-title="地方" tvg-logo="https://gcore.jsdelivr.net/gh/da13576/logo@main/广州新闻.png",广州新闻
+http://192.168.1.111:7088/udp/239.253.43.72:5146
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=bcd5125e530044fdd5579b629f1fa7cc&txTime=18d6ec9e894
 http://php.jdshipin.com:8880/gztv.php?id=xinwen
 
