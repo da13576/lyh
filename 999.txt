@@ -1,15 +1,1 @@
-{ "storeHouse": [ 
-    {
-      "sourceName": "🍎主仓库",
-      "sourceUrl": "https://ghfast.top/https://raw.githubusercontent.com/seal32/seal32.github.io/master/zby.txt"
-    },
-    {
-      "sourceName": "🥭备仓库",
-      "sourceUrl": "https://ghfast.top/https://raw.githubusercontent.com/judy-gotv/iptv/main/smart2025.txt"
-    },
-    {
-      "sourceName": "🥝M仓库",
-      "sourceUrl": "https://ghfast.top/https://raw.githubusercontent.com/da13576/lyh/main/zb.txt"
-    }
-    ]
-}
+
