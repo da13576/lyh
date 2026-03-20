@@ -1,0 +1,22 @@
+{
+"lives": [
+ {
+            "name": "🐟🐟",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/my.txt",
+           "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
+ },
+  {
+   "name": "💎冰央💎",
+   "type": 0,
+      "url": "https://fy.188766.xyz/?ip=192.168.1.2&json=true",
+      "ua": "bingcha/0.1"
+  },
+   {
+    "name": "🍑落",
+    "url": "http://bxtv.3a.ink/live.m3u",
+    "ua":  "okhttp/3.15"
+  }
+]
+}
