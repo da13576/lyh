@@ -3,19 +3,19 @@
  {
             "name": "🐟🐟",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/my.txt",
+            "url": "https://hk.gh-proxy.com/https://github.com/wing13535/dianshi/blob/main/ZHIBO.txt",
            "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
  },
   {
    "name": "💎冰央💎",
    "type": 0,
-      "url": "https://fy.188766.xyz/?ip=192.168.1.2&json=true",
+      "url": "https://hk.gh-proxy.com/https://github.com/jk2024988/TV2024/blob/main/河南移动3.m3u",
       "ua": "bingcha/0.1"
   },
    {
     "name": "🍑落",
-    "url": "http://bxtv.3a.ink/live.m3u",
+    "url": "https://hk.gh-proxy.com/https://github.com/liyh52377/mk/blob/main/live.txt",
     "ua":  "okhttp/3.15"
   }
 ]
