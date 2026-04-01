@@ -5,6 +5,11 @@
         "name": "CCTV-1 综合|CCTV1|CCTV-1 HD"
     },
     {
+        "epgid": "CCTV2",
+        "logo": "https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV2.png",
+        "name": "CCTV-2 综合|CCTV2|CCTV-2 HD"
+    },
+    {
         "epgid": "CCTV5",
         "logo": "https://gcore.jsdelivr.net/gh/da13576/logo@main/CCTV5.png",
         "name": "CCTV-5 体育|CCTV5|CCTV-5 HD"
